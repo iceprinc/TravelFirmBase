@@ -1,0 +1,90 @@
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe.config
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Properties.Resources.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csproj.GenerateResource.cache
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Airports.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.BusStations.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Clients.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Departments.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Eats.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Hotels.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.LocationClients.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.LocationWorkers.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Orders.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.PassClients.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.PassWorkers.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Posts.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Tours.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Workers.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Cities.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Countries.resources
+D:\Users\IcePrince\Desktop\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Login.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe.config
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.pdb
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csprojAssemblyReference.cache
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Airports.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.BusStations.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Cities.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Clients.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Countries.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Departments.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Eats.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Hotels.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.LocationClients.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.LocationWorkers.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Login.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Orders.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.PassClients.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.PassWorkers.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Posts.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Properties.Resources.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Tours.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Workers.resources
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csproj.GenerateResource.cache
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.exe
+F:\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe.config
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\bin\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Login.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Properties.Resources.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.csproj.GenerateResource.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency\TourAgency\obj\Debug\TourAgency.Tables.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\bin\Debug\TourAgency.exe.config
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\bin\Debug\TourAgency.exe.manifest
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\bin\Debug\TourAgency.application
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\bin\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\bin\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.Login.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.Properties.Resources.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.Tables.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.csproj.GenerateResource.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.exe.manifest
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.application
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency-2019\TourAgency\TourAgency\obj\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\bin\Debug\TourAgency.exe.config
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\bin\Debug\TourAgency.exe.manifest
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\bin\Debug\TourAgency.application
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\bin\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\bin\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.Login.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.Properties.Resources.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.Tables.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.csproj.GenerateResource.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.exe.manifest
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.application
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.Reports.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Курсовая\Приложение\TourAgency 1.0\TourAgency\obj\Debug\TourAgency.idHelp.resources
